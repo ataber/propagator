@@ -1,0 +1,31 @@
+{
+  "name": "propagator",
+  "version": "1.0.0",
+  "description": "Propagators with streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ataber/propagators.git"
+  },
+  "keywords": [
+    "stream",
+    "propagators",
+    "radul",
+    "sussman",
+    "constraint",
+    "propagation",
+    "truth",
+    "maintainence",
+    "graph",
+    "dataflow"
+  ],
+  "author": "Andrew Taber <andrew.e.taber@gmail.com> (http://taber.space)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ataber/propagators/issues"
+  },
+  "homepage": "https://github.com/ataber/propagators#readme"
+}
